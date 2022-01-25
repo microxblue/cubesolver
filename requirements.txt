@@ -1,0 +1,6 @@
+opencv-python
+pyusb
+numpy
+kociemba
+
+
