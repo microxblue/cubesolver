@@ -11,8 +11,10 @@ The hardware platform is built with:
   - Host computer with webcam
   - TB6600 stepper motor driver x 3
   - 12HS4023 stepper motoir x 3
-  - SG90 Servo x 1, or similar
+  - Servo (For example, SG90 Servo, or similar)
   - STM32F103 MCU board. (For example, BluePill STM32F103)
+  - 3D printed parts (FreeCAD files: [X-shape](docs/XShape.FCStd), [Coupler](docs/Coupler.FCStd))
+    
 
 The system hardware wiring is listed in the diagram below:
 ![Hardware Wring](docs/hw_wiring.jpg "Hardware Wring")
